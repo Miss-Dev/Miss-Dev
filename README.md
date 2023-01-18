@@ -3,7 +3,8 @@
 ### Bem vindo(a) ao meu perfil!
 
 - 🔭 Atualmente estou trabalhando em Desenvolvimento de Softwares de automação;
-- :book: Atualmente cursando o último ano do curso de Sistemas de Informação UFMS (CPAN);
+- :book: Graduada no curso de bacharelado em Sistemas de Informação UFMS (CPAN);
+- 📖 Primeiro período no mestrado profissional em Computação Aplicada UFMS (Cidade Universitária);
 - :checkered_flag: Todas as linguagens de programações e tecnologias existentes são importantes, python é minha favorita!
 
 
